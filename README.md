@@ -1,6 +1,3 @@
-# sprint-3-python-project
-# write your code here
-
 readme_text = """
 # Video Game Sales Data Analysis
 
